@@ -1,2 +1,3 @@
-# Mughal-s_DEMO-
+# Mughal-s_DEMO-  
 This is my first GIT Repository.
+Author - Mughal 
